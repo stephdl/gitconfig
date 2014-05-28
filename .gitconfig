@@ -18,4 +18,4 @@
     dfs = diff --stat
     df = diff
     lgp = log --graph --decorate -p
-    dh = diff HEAD
+    dfh = diff HEAD
