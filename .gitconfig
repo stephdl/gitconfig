@@ -1,0 +1,21 @@
+[user]
+    name = Stephane de Labrusse
+    email = stephdl@de-labrusse.fr
+[core]
+    editor = nano
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+[alias]
+    lg = log --graph --decorate
+    st = status
+    cm = commit -am
+    co = checkout
+    br = branch
+    pot = push --tags origin
+    amend = commit --amend
+    dfs = diff --stat
+    df = diff
+    lgp = log --graph --decorate -p
+    dh = diff HEAD
